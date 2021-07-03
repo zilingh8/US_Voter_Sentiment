@@ -1,6 +1,6 @@
 # US_Voter_Sentiment
 
-In this group school project, we use the American National Election Studies (ANES) 2018 voter sentiment survey dataset to conduct some research and testing in R to answer questions of interest.
+In this group school project, we use the American National Election Studies (ANES) 2018 voter sentiment survey dataset to conduct some statistics research and testing in R to answer questions of interest.
 
 You will find:
 
